@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Shrejit! 👋
 
-<!--
-**Dark-Syntax-SD/Dark-Syntax-SD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 2nd Year ETCE Student, IIEST Shibpur
+- Interested in Analog Electronics, VLSI, and Digital Design
 
-Here are some ideas to get you started:
+## Tools & Technologies
+- LTspice
+- Verilog
+- MATLAB
+- C
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+
+## Currently Learning
+- Verilog
+- LT Spice
+- MOSFET Circuits
+  
