@@ -14,20 +14,20 @@
 ### Hardware Description & Simulation
 <p align="left">
   <a href="https://www.analog.com/en/resources/design-tools-and-calculators/ltspice-simulator.html" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/dd/LTspice_logo.png" alt="LTspice" width="85" height="40" style="vertical-align:middle; margin-right: 10px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ltspice/ltspice-original.svg" alt="LTspice" width="45" height="45" style="vertical-align:middle; margin-right: 15px;"/>
   </a>
   <a href="https://en.wikipedia.org/wiki/Verilog" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/fluent/48/000000/integrated-circuit.png" alt="Verilog" width="40" height="40" style="vertical-align:middle;"/>
+    <img src="https://img.icons8.com/fluent/48/000000/integrated-circuit.png" alt="Verilog" width="45" height="45" style="vertical-align:middle;"/>
   </a>
 </p>
 
 ### Programming & Computing
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C" width="40" height="40" style="vertical-align:middle; margin-right: 15px;"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C" width="45" height="45" style="vertical-align:middle; margin-right: 15px;"/>
   </a>
   <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="43" height="40" style="vertical-align:middle;"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="48" height="45" style="vertical-align:middle;"/>
   </a>
 </p>
 
