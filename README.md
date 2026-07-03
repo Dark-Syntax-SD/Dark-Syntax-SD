@@ -13,12 +13,8 @@
 
 ### Hardware Description & Simulation
 <p align="left">
-  <a href="https://www.analog.com/en/resources/design-tools-and-calculators/ltspice-simulator.html" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ltspice/ltspice-original.svg" alt="LTspice" width="45" height="45" style="vertical-align:middle; margin-right: 15px;"/>
-  </a>
-  <a href="https://en.wikipedia.org/wiki/Verilog" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/fluent/48/000000/integrated-circuit.png" alt="Verilog" width="45" height="45" style="vertical-align:middle;"/>
-  </a>
+  <img src="https://img.shields.io/badge/Verilog-3B5998?style=for-the-badge&logo=cpu&logoColor=white" alt="Verilog" />
+  <img src="https://img.shields.io/badge/LTspice-FF6F00?style=for-the-badge&logo=circuit&logoColor=white" alt="LTspice" />
 </p>
 
 ### Programming & Computing
