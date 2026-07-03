@@ -5,7 +5,7 @@
 ## 👨‍💻 About Me
 * 🎓 **2nd Year ETCE Student** at **IIEST Shibpur**
 * ⚡ **Core Interests:** Analog Electronics, VLSI Design, and Digital Logic Design
-* 🌱 Always exploring the bridge between software hardware architectures.
+* 🌱 Always exploring the bridge between software & hardware architectures.
 
 ---
 
@@ -13,14 +13,22 @@
 
 ### Hardware Description & Simulation
 <p align="left">
-  <img src="https://img.shields.io/badge/Verilog-3B5998?style=for-the-badge&logo=cpu&logoColor=white" alt="Verilog" />
-  <img src="https://img.shields.io/badge/LTspice-FF6F00?style=for-the-badge&logo=circuit&logoColor=white" alt="LTspice" />
+  <a href="https://www.analog.com/en/resources/design-tools-and-calculators/ltspice-simulator.html" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/dd/LTspice_logo.png" alt="LTspice" width="85" height="40" style="vertical-align:middle; margin-right: 10px;"/>
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Verilog" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/fluent/48/000000/integrated-circuit.png" alt="Verilog" width="40" height="40" style="vertical-align:middle;"/>
+  </a>
 </p>
 
 ### Programming & Computing
 <p align="left">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
-  <img src="https://img.shields.io/badge/MATLAB-ED1C24?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB" />
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C" width="40" height="40" style="vertical-align:middle; margin-right: 15px;"/>
+  </a>
+  <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="43" height="40" style="vertical-align:middle;"/>
+  </a>
 </p>
 
 ---
@@ -34,4 +42,3 @@
 
 ## 🚀 Projects
 > 💡 *Building things at the intersection of hardware and software. Check back soon for updates!*
-
