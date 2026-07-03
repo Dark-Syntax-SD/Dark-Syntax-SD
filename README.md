@@ -37,5 +37,5 @@
 ---
 
 ## 🚀 Projects
-💡 Recent project: MOSFET Common Source Amplifiers in LTspice (single-stage and two-stage) with gain analysis.
+💡 Recent project: MOSFET Common Source Amplifiers in LTspice (single-stage and two-stage) with gain analysis [https://github.com/Dark-Syntax-SD/mosfet-amplifiers-ltspice].
 > 💡 *Building things at the intersection of hardware and software. Check back soon for updates!*
