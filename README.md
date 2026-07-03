@@ -35,14 +35,3 @@
 ## 🚀 Projects
 > 💡 *Building things at the intersection of hardware and software. Check back soon for updates!*
 
-* 📂 **[Project Name 1](links-to-repo)** - A brief 1-line description of what this project does.
-* 📂 **[Project Name 2](links-to-repo)** - A brief 1-line description of what this project does.
-
----
-
-## 📊 My GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dark-Syntax-SD&show_icons=true&theme=tokyonight&count_private=true" alt="Shrejit's GitHub Stats" />
-</p>
-
-  
