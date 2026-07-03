@@ -37,4 +37,5 @@
 ---
 
 ## 🚀 Projects
+💡 Recent project: MOSFET Common Source Amplifiers in LTspice (single-stage and two-stage) with gain analysis.
 > 💡 *Building things at the intersection of hardware and software. Check back soon for updates!*
